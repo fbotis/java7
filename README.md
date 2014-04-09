@@ -1,4 +1,4 @@
 java7
 =====
 
-Playing with java 7 features
+Java 7 new features playground
